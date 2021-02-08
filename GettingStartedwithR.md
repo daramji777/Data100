@@ -1,5 +1,5 @@
-# These were the results of the Practice and the Challenge Problems
-This is the graph for the practice exercise
+# Graphs for Practice and the Challenge Problem
+This is the graph for the practice
 ![](Practice.PNG)
 
 This is the graph for the challenge problem
