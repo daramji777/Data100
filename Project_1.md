@@ -8,4 +8,3 @@ Then for Stretch Goal 2, I created a map of Gorno-Badakhshan County, one of Taji
 ![](gorno-badakhshan.png)
 
 Finally for Stretch Goal 3, I zoomed into two additional counties of Tajikistan and created maps of their subdivisions
-![](details.png)
