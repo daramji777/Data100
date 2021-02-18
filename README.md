@@ -6,5 +6,5 @@ My name is Jungmin Shin and I am a student at William and Mary taking the Data 1
 ![](ProfilePicture.PNG)
 
 ## Projects
-[Getting Started with R](GettingStartedwithR.md)
+[Getting Started with R](GettingStartedwithR.md) 
 [Project 1](Project_1.md)
