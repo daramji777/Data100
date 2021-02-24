@@ -7,9 +7,9 @@ This is the population plot of the first administrative districts of Cuba
 ![](cub_pop20.png)
 
 # Stretch Goal 1
-This is the population plot of the second administrative districts of Cuba
+This is the plot of the second administrative districts of Cuba plotting the log of the population
 ![](cub_pop20v2.png)
 
 # Stretch Goal 2
-This is the plot from Stretch Goal 1 with the first administrative boundaries and the log of the population
+This is the plot from Stretch Goal 1 with the first administrative boundaries
 ![](cub_pop20v3.png)
