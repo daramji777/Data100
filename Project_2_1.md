@@ -16,4 +16,4 @@ This is the plot from Stretch Goal 1 with the first administrative boundaries
 
 # Stretch Goal 3
 This is the 3D plot created based on the log of the population of Cuba
-![](cub_mov.mp4)
+![]()
