@@ -13,3 +13,7 @@ This is the plot of the second administrative districts of Cuba plotting the log
 # Stretch Goal 2
 This is the plot from Stretch Goal 1 with the first administrative boundaries
 ![](cub_pop20v3.png)
+
+# Stretch Goal 3
+This is the 3D plot created based on the log of the population of Cuba
+![](cub_mov.mp4)
