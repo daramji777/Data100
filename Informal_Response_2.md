@@ -9,4 +9,5 @@ However, there are caveats in the current method of using Big Data analysis that
 # Works Cited
 
 Anderson, Chris. “The End of Theory: The Data Deluge Makes the Scientific Method Obsolete.” Wired, Conde Nast, www.wired.com/2008/06/pb-theory/. 
+
 Kitchin, Rob. “Big Data, New Epistemologies and Paradigm Shifts.” Big Data & Society, Apr. 2014, doi:10.1177/2053951714528481.
