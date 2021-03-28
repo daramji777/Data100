@@ -14,6 +14,8 @@ My name is Jungmin Shin and I am a student at William and Mary taking the Data 1
 
 [Project 2.2](Project_2_2.md)
 
+[Project 3](Project_3.md)
+
 ### Informal Responses
 [Informal Response 1](Informal_Response_1.md)
 
