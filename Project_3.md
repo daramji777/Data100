@@ -12,3 +12,15 @@ This is the combined histogram with density plot of slope versus population dens
 
 # Challenge Question 2
 These are the linear models describing any correlationships between population and land cover or land use data. 
+
+This is the linear model of night time lights and population.
+![](Project3ntlreg.png)
+![](Project3ntlregsummary.png)
+
+This is the linear model of night time lights, urban cover, bare cover, and population.
+![](Project3threevarreg.png)
+![](Project3threevarregsummary.png)
+
+This is the linear model of all the geospatial attributes and population.
+![](Project3allvarreg.png)
+![](Project3allvarregsummary.png)
