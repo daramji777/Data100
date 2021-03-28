@@ -15,12 +15,12 @@ These are the linear models describing any correlationships between population a
 
 This is the linear model of night time lights and population.
 ![](Project3ntlreg.png)
-![](Project3ntlregsummary.png)
+![](Project3ntlregsummary.PNG)
 
 This is the linear model of night time lights, urban cover, bare cover, and population.
 ![](Project3threevarreg.png)
-![](Project3threevarregsummary.png)
+![](Project3threevarregsummary.PNG)
 
 This is the linear model of all the geospatial attributes and population.
 ![](Project3allvarreg.png)
-![](Project3allvarregsummary.png)
+![](Project3allvarregsummary.PNG)
