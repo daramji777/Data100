@@ -3,15 +3,13 @@ In this project, we predicted spatial values across our selected country and plo
 
 # Challenge Question
 These are plots of predicted spatial values of two cities within Estonia at the first and second administrative levels. 
+
 This is the plot of the Tartu County population at the first administrative level.
 ![](tartu_pop1.png)
-
 This is the plot of the Tartu city population at the second administrative level.
 ![](tartu_pop2.png)
-
 This is the plot of the Harju County population at the first administrative level.
 ![](harju_pop1.png)
-
 This is the plot of the Tallinn city population at the second administrative level.
 ![](tallinn_pop2.png)
 
