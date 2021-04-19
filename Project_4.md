@@ -48,3 +48,5 @@ Plot of difference in the predicted population and real population of Estonia.
 
 3D plot of the difference in predicted and real population of Estonia.
 ![](difflogpop3d.PNG)
+
+Among the series of plots that I generated, it appears that the plots where the response variable is population and the predictors are the mean of covariates yielded the best results, because while the other two series of plots have patches in urban areas where the plot incorrectly predicted the poplation, the second plot has plots of uniform color, suggesting that it didn't predict the urban areas incorrectly. 
