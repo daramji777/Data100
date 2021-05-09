@@ -23,3 +23,7 @@ The total population in Tartu County, Estonia is estimated to be 152002 people, 
 
 # Accessibility 3
 In this project, we describe the de facto location of human settlements and urban areas, roadways, and location of health care facilities throughout Tartu County with topography. 
+![](tartucountyestonia6.png)
+
+Overall, the landscape of Tartu County appears to be scattered with many small mountains. The urban areas seems to have developed in the locations where there is the most flat land available, and this landscape also led to roadways that avoids the elevations, but inevitably some roads do traverse these higher elevations. Since the health care facilities mostly develop in urban areas, we also see that the health care facilities are mostly on flat areas. Producing the 3D map gave deeper understanding of why some areas in Tartu County are not as urbanized as other areas in Tartu, and this is likely due to the inconvenience of building cities on mountainsides. 
+
