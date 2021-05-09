@@ -17,4 +17,4 @@ This is the plot of de facto human settlements and urban areas where each area i
 
 # Accessibility 2
 In this project, we developed a plot describing the de facto location of human settlements and urban areas, roadways, and location of health care facilities throughout Tartu County. 
-![]()
+![](tartuhealth2.png)
